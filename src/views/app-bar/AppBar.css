@@ -1,0 +1,9 @@
+.aghsport-app-bar {
+  position: relative !important;
+  display: flex; }
+  .aghsport-app-bar__wrapper {
+    margin: 0 10rem; }
+  .aghsport-app-bar__divider {
+    flex: 1 1 auto; }
+  .aghsport-app-bar .aghsport-app-bar__button {
+    margin: 0 1rem; }
